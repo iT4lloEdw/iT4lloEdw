@@ -6,6 +6,7 @@
 
 ![itallo GitHub stats](https://github-readme-stats.vercel.app/api?username=iT4lloEdw&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iT4lloEdw&layout=compact)](https://github.com/iT4lloEdw/github-readme-stats)
 
 ### Linguagens que utilizo no meu dia.
 
