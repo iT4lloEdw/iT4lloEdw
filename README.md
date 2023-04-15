@@ -20,5 +20,7 @@ Atualmente Cursando o 2º Periodo de Ciências da Computação na FPB!
 ### 📧 Email para contato:
 - [ italloedward3@gmail.com ]
 
+ ![Snake animation](https://github.com/iT4lloEdw/iT4lloEdw/blob/output/github-contribution-grid-snake.svg)
+
 
 
