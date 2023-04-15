@@ -1,4 +1,4 @@
-### <h1>Olá!, eu sou o Itallo ✋</h1>  
+### <h1>bem-vindo(a) ao meu Perfil! ✋</h1>  
 - Atualmente Cursando o 2º Periodo de Ciências da Computação na FPB!
   
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
