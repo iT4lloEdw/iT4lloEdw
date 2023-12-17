@@ -4,10 +4,10 @@
 
 <p align="center">Olá, meu nome é Itallo! estou apto e livre para aprender com a necessidade de meu cargo, possuo foco em desenvolvimento com Java Script, PHP, Python e entre outras tecnologias relacionadas ao front-end: Photoshop, Figma, Bootstrap, HTML e CSS. </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iT4lloEdw&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Itallo Edward github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iT4lloEdw&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
  
  &nbsp;
  &nbsp;
