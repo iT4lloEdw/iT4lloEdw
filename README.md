@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/iT4lloEdw/Initial-Work/main/apresentação.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, meu nome é Itallo! estou apto e livre para aprender com a necessidade de meu cargo, possuo foco inicial em Front-end.</p>&nbsp;
+<p align="center">Olá, meu nome é Itallo! estou apto e livre para aprender com a necessidade de meu cargo.</p>&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iT4lloEdw&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Itallo Edward github stats" /> 
