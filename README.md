@@ -1,4 +1,4 @@
- <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/iT4lloEdw/Initial-Work/main/apresentação.png" />
+ <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/iT4lloEdw/Initial-Work/refs/heads/main/apresentação-git.png" />
 &nbsp;&nbsp;&nbsp;
 
 <h1 align="center">👋 Olá! Eu sou o Itallo Edward</h1>
