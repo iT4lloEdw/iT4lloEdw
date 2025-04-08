@@ -1,17 +1,30 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/iT4lloEdw/Initial-Work/main/apresentação.png" />
+ <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/iT4lloEdw/Initial-Work/main/apresentação.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Em evolução sempre.</p>&nbsp;
+<h1 align="center">👋 Olá! Eu sou o Itallo Edward</h1>
+<p align="center">
+  <strong>Desenvolvedor Fullstack Júnior | Estudante de T.I | Apaixonado por tecnologia</strong>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iT4lloEdw&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Itallo Edward github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iT4lloEdw&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
- 
- &nbsp;
- &nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/itallo-edward/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:itallosilva767gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+### 🚀 Sobre mim
+
+🎓 Estudante de T.I com foco em desenvolvimento web e mobile  
+👨‍💻 Buscando minha primeira oportunidade como desenvolvedor  
+📚 Sempre aprendendo e criando projetos práticos para evoluir  
+🎯 Motivado por desafios e crescimento constante
+
+---
 
 
 ## 🧰 My Skills
