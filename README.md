@@ -167,5 +167,3 @@ Busco minha primeira oportunidade na área de desenvolvimento de software, princ
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00509d&height=120&section=footer"/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00509d&height=120&section=footer"/>
